@@ -6,10 +6,17 @@
 
 ### 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas no curso:
 
 - [JavaScript](https://www.javascript.com/)
 - [NodeJs](https://nodejs.org/en/)
+- [NPM](https://www.npmjs.com/)
+
+### :trophy: Dicas
+
+Dicas e Links interessantes utilizados no curso:
+
+- [NodeSchool](https://nodeschool.io/pt-br/)
 
 ### Autor
 
