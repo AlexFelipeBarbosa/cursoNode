@@ -1,0 +1,32 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Curso NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexFelipeBarbosa/cursoNode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Alex Felipe Barbosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexFelipeBarbosa/cursoNode/issues"
+  },
+  "homepage": "https://github.com/AlexFelipeBarbosa/cursoNode#readme"
+}
