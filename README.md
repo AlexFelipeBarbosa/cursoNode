@@ -4,6 +4,14 @@
 
 <p align="center"></p>
 
+### :airplane: Módulos do curso:
+- [x] Introdução
+- [ ] Conceitos fundamentais de NodeJs
+- [ ] Controlando o fluxo de uma aplicação NodeJS
+- [ ] APIs nativas do NodeJS
+- [ ] Trabalhando com Modulos no NodeJs
+
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas no curso:
@@ -17,6 +25,11 @@ As seguintes ferramentas foram usadas no curso:
 Dicas e Links interessantes utilizados no curso:
 
 - [NodeSchool](https://nodeschool.io/pt-br/)
+
+### Status do Curso: 
+Em andamento :warning:
+
+
 
 ### :man: Autor
 
