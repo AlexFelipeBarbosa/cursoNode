@@ -18,7 +18,7 @@ Dicas e Links interessantes utilizados no curso:
 
 - [NodeSchool](https://nodeschool.io/pt-br/)
 
-### Autor
+### :man: Autor
 
 ---
 
